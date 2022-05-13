@@ -2,8 +2,6 @@
 
 I'm a software engineering student at [Launch School](https://launchschool.com/)
 
-Most of my current public repos are small exercises from the Launch School curriculum with a few from when I was dabbling in Python and Javascript/CSS before starting with Launch School.
-
 <!--
 **918benjamin/918benjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
