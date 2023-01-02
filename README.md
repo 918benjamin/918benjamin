@@ -2,6 +2,11 @@
 
 I'm a full-stack software engineer with several years of experience currently based in Tulsa, Oklahoma. I've worked primarily with Ruby, JavaScript, and Golang.
 
+  <a href="https://www.benjaminperrault.com">
+    <img src="https://skillicons.dev/icons?i=ruby,js,go,nodejs,postgres,graphql,express,react,docker,aws,heroku,git,github,vscode,bash" />
+  </a>
+
+
 Recently, I co-created [Nexus](https://nexus-graphql.github.io/), an open-source tool that generates and deploys an instant GraphQL API from multiple data sources, built with: Node.js · GraphQL Mesh · Amazon Web Services (AWS) · Docker · Terraform · React · Express.js · Git & GitHub
 
 Curiosity is my superpower. I'm a relentless question-asker & lifelong learner on a journey to improve myself & the world.
