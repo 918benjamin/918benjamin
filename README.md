@@ -11,8 +11,6 @@ Recently, I co-created [Nexus](https://nexus-graphql.github.io/), an open-source
 
 Curiosity is my superpower. I'm a relentless question-asker & lifelong learner on a journey to improve myself & the world.
 
-I'm currently looking for my next role, please reach out of I might be a good fit for your team!
-
 You can reach me here:
 - [LinkedIn](https://www.linkedin.com/in/benjaminperrault/)
 - [benjaminperrault.com](https://benjaminperrault.com/)
