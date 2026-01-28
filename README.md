@@ -3,7 +3,7 @@
 I'm a full-stack software engineer with several years of experience currently based in Tulsa, Oklahoma. I've worked primarily with Typescript and Python and dabbled with Ruby and Golang.
 
   <a href="https://www.benjaminperrault.com">
-    <img src="https://skillicons.dev/icons?i=ruby,js,go,nodejs,postgres,graphql,express,react,docker,aws,heroku,git,github,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=,ts,python,nodejs,postgres,react,docker,aws,ruby,go,git,github,vscode" />
   </a>
 
 
